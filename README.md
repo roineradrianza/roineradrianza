@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Roiner Adrianza
 
-## 🚀 Senior Full-Stack Developer | Building Scalable Solutions with Passion
+## 🚀 Full-Stack Developer | Building Scalable Solutions with Passion
 
 Welcome to my GitHub! I'm a technology enthusiast who loves crafting robust web applications and exploring new technologies. With expertise spanning both frontend and backend development, I enjoy turning complex problems into elegant solutions.
 
